@@ -1,6 +1,8 @@
 [submodule "tabu-app"]
 	path = tabu-app
 	url = https://github.com/tabu-hr/tabu-app
+	branch = main
 [submodule "tabu-db-api"]
 	path = tabu-db-api
 	url = https://github.com/tabu-hr/tabu-db-api
+	branch = main
