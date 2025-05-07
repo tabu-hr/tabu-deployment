@@ -3,7 +3,7 @@ services:
     container_name: tabu-development-app
     build:
       context: .
-      target: tabu-app
+      target: development
     ports:
       - 30000:5173
     depends_on:
